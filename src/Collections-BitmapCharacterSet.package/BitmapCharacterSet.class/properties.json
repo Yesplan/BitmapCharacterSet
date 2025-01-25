@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "monty 4/5/2015 23:53",
+	"super" : "Collection",
+	"category" : "Collections-BitmapCharacterSet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"byteCharacters",
+		"wideCharacters",
+		"tally"
+	],
+	"name" : "BitmapCharacterSet",
+	"type" : "normal"
+}

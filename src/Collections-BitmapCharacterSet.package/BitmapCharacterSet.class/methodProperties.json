@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"do:" : "monty 9/1/2015 06:35",
+		"byteCharacters" : "monty 4/5/2015 23:43",
+		"remove:ifAbsent:" : "monty 12/10/2014 12:52",
+		"add:" : "monty 12/10/2014 12:50",
+		"=" : "JAA 3/31/2011 17:17",
+		"lastCodePoint" : "monty 8/30/2015 00:59",
+		"includes:" : "monty 12/10/2014 15:04",
+		"postCopy" : "JAAyer 1/20/2011 01:05",
+		"capacity" : "Anonymous 11/12/2013 00:32",
+		"size" : "JAAyer 1/21/2011 17:29",
+		"wideCharacters" : "monty 4/5/2015 23:43",
+		"hash" : "JAAyer 1/20/2011 01:09",
+		"initialize:" : "monty 12/10/2014 12:50",
+		"growWideCharacterBitmapTo:" : "Anonymous 11/12/2013 00:48"
+	},
+	"class" : {
+		"lastCodePoint" : "monty 8/30/2015 00:59",
+		"new" : "JAAyer 1/19/2011 23:03",
+		"inspectorClass" : "monty 4/19/2015 15:41",
+		"new:" : "JAAyer 1/19/2011 23:04",
+		"newFrom:" : "monty 4/5/2015 23:40"
+	}
+}
